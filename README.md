@@ -1,4 +1,4 @@
-# WIN Backend Engineering Interview
+# WIN Interview
 
 ## General Info
 
